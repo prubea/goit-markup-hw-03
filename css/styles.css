@@ -202,7 +202,7 @@ img {
 .main-section .container {
   display: block;
 
-  width: 1600px;
+  /* width: 1600px; */
   color: var(--white-color);
   padding: 0;
   /* padding-left: 215px;
