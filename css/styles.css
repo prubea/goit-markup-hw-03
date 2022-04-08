@@ -450,8 +450,18 @@ img {
 
 .project-list-item {
   flex-basis: calc(100% / 3 - 30px);
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
   margin-bottom: 30px;
+}
+
+.team-list-item:focus,
+.team-list-item:hover,
+.project-list-item:focus,
+.project-list-item:hover {
+box-sizing: border-box;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
+  0px 4px 4px rgba(0, 0, 0, 0.06),
+  1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
 .img-project {
