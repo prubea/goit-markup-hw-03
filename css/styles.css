@@ -227,16 +227,15 @@ img {
   letter-spacing: 0.06em;
   text-align: center;
   color: var(--white-color);
-  margin-bottom: 30px;
-
-  padding-top: 200px;
 
   /* width: 696px; */
   
-  display: flex;
+  display: block;
   align-items: center;
+  padding-top: 200px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 30px;
 }
 
 .button-main {
