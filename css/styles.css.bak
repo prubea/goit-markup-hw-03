@@ -229,7 +229,7 @@ img {
   text-align: center;
   /* color: var(--white-color); */
 
-  width: 696px;
+  /* width: 696px; */
   
   display: block;
   align-items: center;
