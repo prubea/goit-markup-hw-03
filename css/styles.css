@@ -229,10 +229,11 @@ img {
   text-align: center;
   /* color: var(--white-color); */
 
-  width: 696px;
+  /* width: 696px; */
   
   display: block;
   align-items: center;
+  justify-content: center;
   /* padding-top: 200px; */
   margin-left: auto;
   margin-right: auto;
